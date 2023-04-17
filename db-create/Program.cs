@@ -39,7 +39,7 @@ class Program
             Console.WriteLine("ID:" + ID + "名前:" + Name + "年齢:" + Age + "出身地:" + Prefecture);
         }
         conn.Close();
-
+        
 
     }
 }
