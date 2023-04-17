@@ -48,6 +48,6 @@ class Program
 
 
 
-// ; TrustServerCertificate = true 暗号化を利用した接続
+// ; TrustServerCertificate = true 暗号化を利用した接続。
 //↓接続文字列
 //Data Source = LAPTOP - 861DHBEM; Initial Catalog = Test - db; Integrated Security = True; Connect Timeout = 30; Encrypt = False; Trust Server Certificate=False; Application Intent = ReadWrite; Multi Subnet Failover=False
